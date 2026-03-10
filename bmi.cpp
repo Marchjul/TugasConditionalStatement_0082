@@ -26,3 +26,9 @@ int main() {
     float berat, tinggi, bmi;
 
 cout << "====== Selamat Datang Mahasiswa Kelas A 2025 ======" << endl;
+
+float berat, tinggi; 
+    cout << "Masukkan berat badan (kg): ";
+    cin >> berat;
+    cout << "Masukkan tinggi badan (m): ";
+    cin >> tinggi;
