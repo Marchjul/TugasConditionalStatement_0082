@@ -21,3 +21,6 @@ string kondisiBMI(float bmi) {
 
     }
 }
+
+int main() {
+    float berat, tinggi, bmi;
